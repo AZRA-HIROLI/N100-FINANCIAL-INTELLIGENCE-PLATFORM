@@ -1,0 +1,2882 @@
+[
+    {
+        "company_id": 1,
+        "ticker": "TICKER_1",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 1,
+        "ticker": "TICKER_1",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 1,
+        "ticker": "TICKER_1",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 1,
+        "ticker": "TICKER_1",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 1,
+        "ticker": "TICKER_1",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 1,
+        "ticker": "TICKER_1",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 1,
+        "ticker": "TICKER_1",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 1,
+        "ticker": "TICKER_1",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 1,
+        "ticker": "TICKER_1",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 1,
+        "ticker": "TICKER_1",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 1,
+        "ticker": "TICKER_1",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 1,
+        "ticker": "TICKER_1",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 1,
+        "ticker": "TICKER_1",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 1,
+        "ticker": "TICKER_1",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 5,
+        "ticker": "TICKER_5",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 5,
+        "ticker": "TICKER_5",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 5,
+        "ticker": "TICKER_5",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 5,
+        "ticker": "TICKER_5",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 5,
+        "ticker": "TICKER_5",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 5,
+        "ticker": "TICKER_5",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 5,
+        "ticker": "TICKER_5",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 5,
+        "ticker": "TICKER_5",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 5,
+        "ticker": "TICKER_5",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 5,
+        "ticker": "TICKER_5",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 5,
+        "ticker": "TICKER_5",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 5,
+        "ticker": "TICKER_5",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 5,
+        "ticker": "TICKER_5",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 5,
+        "ticker": "TICKER_5",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 11,
+        "ticker": "TICKER_11",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 11,
+        "ticker": "TICKER_11",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 11,
+        "ticker": "TICKER_11",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 11,
+        "ticker": "TICKER_11",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 11,
+        "ticker": "TICKER_11",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 11,
+        "ticker": "TICKER_11",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 11,
+        "ticker": "TICKER_11",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 11,
+        "ticker": "TICKER_11",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 11,
+        "ticker": "TICKER_11",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 11,
+        "ticker": "TICKER_11",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 11,
+        "ticker": "TICKER_11",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 11,
+        "ticker": "TICKER_11",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 11,
+        "ticker": "TICKER_11",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 11,
+        "ticker": "TICKER_11",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 12,
+        "ticker": "TICKER_12",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 12,
+        "ticker": "TICKER_12",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 12,
+        "ticker": "TICKER_12",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 12,
+        "ticker": "TICKER_12",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 12,
+        "ticker": "TICKER_12",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 12,
+        "ticker": "TICKER_12",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 12,
+        "ticker": "TICKER_12",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 12,
+        "ticker": "TICKER_12",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 12,
+        "ticker": "TICKER_12",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 12,
+        "ticker": "TICKER_12",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 12,
+        "ticker": "TICKER_12",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 12,
+        "ticker": "TICKER_12",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 12,
+        "ticker": "TICKER_12",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 12,
+        "ticker": "TICKER_12",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 18,
+        "ticker": "TICKER_18",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 18,
+        "ticker": "TICKER_18",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 18,
+        "ticker": "TICKER_18",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 18,
+        "ticker": "TICKER_18",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 18,
+        "ticker": "TICKER_18",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 18,
+        "ticker": "TICKER_18",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 18,
+        "ticker": "TICKER_18",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 18,
+        "ticker": "TICKER_18",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 18,
+        "ticker": "TICKER_18",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 18,
+        "ticker": "TICKER_18",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 18,
+        "ticker": "TICKER_18",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 18,
+        "ticker": "TICKER_18",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 18,
+        "ticker": "TICKER_18",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 18,
+        "ticker": "TICKER_18",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 21,
+        "ticker": "TICKER_21",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 21,
+        "ticker": "TICKER_21",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 21,
+        "ticker": "TICKER_21",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 21,
+        "ticker": "TICKER_21",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 21,
+        "ticker": "TICKER_21",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 21,
+        "ticker": "TICKER_21",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 21,
+        "ticker": "TICKER_21",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 21,
+        "ticker": "TICKER_21",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 21,
+        "ticker": "TICKER_21",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 21,
+        "ticker": "TICKER_21",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 21,
+        "ticker": "TICKER_21",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 21,
+        "ticker": "TICKER_21",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 21,
+        "ticker": "TICKER_21",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 21,
+        "ticker": "TICKER_21",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 25,
+        "ticker": "TICKER_25",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 25,
+        "ticker": "TICKER_25",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 25,
+        "ticker": "TICKER_25",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 25,
+        "ticker": "TICKER_25",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 25,
+        "ticker": "TICKER_25",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 25,
+        "ticker": "TICKER_25",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 25,
+        "ticker": "TICKER_25",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 25,
+        "ticker": "TICKER_25",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 25,
+        "ticker": "TICKER_25",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 25,
+        "ticker": "TICKER_25",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 25,
+        "ticker": "TICKER_25",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 25,
+        "ticker": "TICKER_25",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 25,
+        "ticker": "TICKER_25",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 25,
+        "ticker": "TICKER_25",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 31,
+        "ticker": "TICKER_31",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 31,
+        "ticker": "TICKER_31",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 31,
+        "ticker": "TICKER_31",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 31,
+        "ticker": "TICKER_31",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 31,
+        "ticker": "TICKER_31",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 31,
+        "ticker": "TICKER_31",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 31,
+        "ticker": "TICKER_31",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 31,
+        "ticker": "TICKER_31",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 31,
+        "ticker": "TICKER_31",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 31,
+        "ticker": "TICKER_31",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 31,
+        "ticker": "TICKER_31",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 31,
+        "ticker": "TICKER_31",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 31,
+        "ticker": "TICKER_31",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 31,
+        "ticker": "TICKER_31",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 33,
+        "ticker": "TICKER_33",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 33,
+        "ticker": "TICKER_33",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 33,
+        "ticker": "TICKER_33",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 33,
+        "ticker": "TICKER_33",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 33,
+        "ticker": "TICKER_33",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 33,
+        "ticker": "TICKER_33",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 33,
+        "ticker": "TICKER_33",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 33,
+        "ticker": "TICKER_33",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 33,
+        "ticker": "TICKER_33",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 33,
+        "ticker": "TICKER_33",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 33,
+        "ticker": "TICKER_33",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 33,
+        "ticker": "TICKER_33",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 33,
+        "ticker": "TICKER_33",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 33,
+        "ticker": "TICKER_33",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 41,
+        "ticker": "TICKER_41",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 41,
+        "ticker": "TICKER_41",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 41,
+        "ticker": "TICKER_41",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 41,
+        "ticker": "TICKER_41",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 41,
+        "ticker": "TICKER_41",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 41,
+        "ticker": "TICKER_41",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 41,
+        "ticker": "TICKER_41",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 41,
+        "ticker": "TICKER_41",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 41,
+        "ticker": "TICKER_41",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 41,
+        "ticker": "TICKER_41",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 41,
+        "ticker": "TICKER_41",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 41,
+        "ticker": "TICKER_41",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 41,
+        "ticker": "TICKER_41",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 41,
+        "ticker": "TICKER_41",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 42,
+        "ticker": "TICKER_42",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 42,
+        "ticker": "TICKER_42",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 42,
+        "ticker": "TICKER_42",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 42,
+        "ticker": "TICKER_42",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 42,
+        "ticker": "TICKER_42",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 42,
+        "ticker": "TICKER_42",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 42,
+        "ticker": "TICKER_42",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 42,
+        "ticker": "TICKER_42",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 42,
+        "ticker": "TICKER_42",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 42,
+        "ticker": "TICKER_42",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 42,
+        "ticker": "TICKER_42",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 42,
+        "ticker": "TICKER_42",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 42,
+        "ticker": "TICKER_42",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 42,
+        "ticker": "TICKER_42",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 50,
+        "ticker": "TICKER_50",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 50,
+        "ticker": "TICKER_50",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 50,
+        "ticker": "TICKER_50",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 50,
+        "ticker": "TICKER_50",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 50,
+        "ticker": "TICKER_50",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 50,
+        "ticker": "TICKER_50",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 50,
+        "ticker": "TICKER_50",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 50,
+        "ticker": "TICKER_50",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 50,
+        "ticker": "TICKER_50",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 50,
+        "ticker": "TICKER_50",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 50,
+        "ticker": "TICKER_50",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 50,
+        "ticker": "TICKER_50",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 50,
+        "ticker": "TICKER_50",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 50,
+        "ticker": "TICKER_50",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 51,
+        "ticker": "TICKER_51",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 51,
+        "ticker": "TICKER_51",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 51,
+        "ticker": "TICKER_51",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 51,
+        "ticker": "TICKER_51",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 51,
+        "ticker": "TICKER_51",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 51,
+        "ticker": "TICKER_51",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 51,
+        "ticker": "TICKER_51",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 51,
+        "ticker": "TICKER_51",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 51,
+        "ticker": "TICKER_51",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 51,
+        "ticker": "TICKER_51",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 51,
+        "ticker": "TICKER_51",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 51,
+        "ticker": "TICKER_51",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 51,
+        "ticker": "TICKER_51",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 51,
+        "ticker": "TICKER_51",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 61,
+        "ticker": "TICKER_61",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 61,
+        "ticker": "TICKER_61",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 61,
+        "ticker": "TICKER_61",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 61,
+        "ticker": "TICKER_61",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 61,
+        "ticker": "TICKER_61",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 61,
+        "ticker": "TICKER_61",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 61,
+        "ticker": "TICKER_61",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 61,
+        "ticker": "TICKER_61",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 61,
+        "ticker": "TICKER_61",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 61,
+        "ticker": "TICKER_61",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 61,
+        "ticker": "TICKER_61",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 61,
+        "ticker": "TICKER_61",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 61,
+        "ticker": "TICKER_61",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 61,
+        "ticker": "TICKER_61",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 68,
+        "ticker": "TICKER_68",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 68,
+        "ticker": "TICKER_68",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 68,
+        "ticker": "TICKER_68",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 68,
+        "ticker": "TICKER_68",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 68,
+        "ticker": "TICKER_68",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 68,
+        "ticker": "TICKER_68",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 68,
+        "ticker": "TICKER_68",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 68,
+        "ticker": "TICKER_68",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 68,
+        "ticker": "TICKER_68",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 68,
+        "ticker": "TICKER_68",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 68,
+        "ticker": "TICKER_68",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 68,
+        "ticker": "TICKER_68",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 68,
+        "ticker": "TICKER_68",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 68,
+        "ticker": "TICKER_68",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 71,
+        "ticker": "TICKER_71",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 71,
+        "ticker": "TICKER_71",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 71,
+        "ticker": "TICKER_71",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 71,
+        "ticker": "TICKER_71",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 71,
+        "ticker": "TICKER_71",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 71,
+        "ticker": "TICKER_71",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 71,
+        "ticker": "TICKER_71",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 71,
+        "ticker": "TICKER_71",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 71,
+        "ticker": "TICKER_71",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 71,
+        "ticker": "TICKER_71",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 71,
+        "ticker": "TICKER_71",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 71,
+        "ticker": "TICKER_71",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 71,
+        "ticker": "TICKER_71",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 71,
+        "ticker": "TICKER_71",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 75,
+        "ticker": "TICKER_75",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 75,
+        "ticker": "TICKER_75",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 75,
+        "ticker": "TICKER_75",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 75,
+        "ticker": "TICKER_75",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 75,
+        "ticker": "TICKER_75",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 75,
+        "ticker": "TICKER_75",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 75,
+        "ticker": "TICKER_75",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 75,
+        "ticker": "TICKER_75",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 75,
+        "ticker": "TICKER_75",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 75,
+        "ticker": "TICKER_75",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 75,
+        "ticker": "TICKER_75",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 75,
+        "ticker": "TICKER_75",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 75,
+        "ticker": "TICKER_75",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 75,
+        "ticker": "TICKER_75",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 81,
+        "ticker": "TICKER_81",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 81,
+        "ticker": "TICKER_81",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 81,
+        "ticker": "TICKER_81",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 81,
+        "ticker": "TICKER_81",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 81,
+        "ticker": "TICKER_81",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 81,
+        "ticker": "TICKER_81",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 81,
+        "ticker": "TICKER_81",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 81,
+        "ticker": "TICKER_81",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 81,
+        "ticker": "TICKER_81",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 81,
+        "ticker": "TICKER_81",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 81,
+        "ticker": "TICKER_81",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 81,
+        "ticker": "TICKER_81",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 81,
+        "ticker": "TICKER_81",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 81,
+        "ticker": "TICKER_81",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 86,
+        "ticker": "TICKER_86",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 86,
+        "ticker": "TICKER_86",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 86,
+        "ticker": "TICKER_86",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 86,
+        "ticker": "TICKER_86",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 86,
+        "ticker": "TICKER_86",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 86,
+        "ticker": "TICKER_86",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 86,
+        "ticker": "TICKER_86",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 86,
+        "ticker": "TICKER_86",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 86,
+        "ticker": "TICKER_86",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 87,
+        "ticker": "TICKER_87",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 87,
+        "ticker": "TICKER_87",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 87,
+        "ticker": "TICKER_87",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 87,
+        "ticker": "TICKER_87",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 87,
+        "ticker": "TICKER_87",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 87,
+        "ticker": "TICKER_87",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 87,
+        "ticker": "TICKER_87",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 87,
+        "ticker": "TICKER_87",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 87,
+        "ticker": "TICKER_87",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 88,
+        "ticker": "TICKER_88",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 88,
+        "ticker": "TICKER_88",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 88,
+        "ticker": "TICKER_88",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 88,
+        "ticker": "TICKER_88",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 88,
+        "ticker": "TICKER_88",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 88,
+        "ticker": "TICKER_88",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 88,
+        "ticker": "TICKER_88",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 88,
+        "ticker": "TICKER_88",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 88,
+        "ticker": "TICKER_88",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 89,
+        "ticker": "TICKER_89",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 89,
+        "ticker": "TICKER_89",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 89,
+        "ticker": "TICKER_89",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 89,
+        "ticker": "TICKER_89",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 89,
+        "ticker": "TICKER_89",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 89,
+        "ticker": "TICKER_89",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 89,
+        "ticker": "TICKER_89",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 89,
+        "ticker": "TICKER_89",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 89,
+        "ticker": "TICKER_89",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 90,
+        "ticker": "TICKER_90",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 90,
+        "ticker": "TICKER_90",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 90,
+        "ticker": "TICKER_90",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 90,
+        "ticker": "TICKER_90",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 90,
+        "ticker": "TICKER_90",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 90,
+        "ticker": "TICKER_90",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 90,
+        "ticker": "TICKER_90",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 90,
+        "ticker": "TICKER_90",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 90,
+        "ticker": "TICKER_90",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 91,
+        "ticker": "TICKER_91",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 91,
+        "ticker": "TICKER_91",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 91,
+        "ticker": "TICKER_91",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 91,
+        "ticker": "TICKER_91",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 91,
+        "ticker": "TICKER_91",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 91,
+        "ticker": "TICKER_91",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 91,
+        "ticker": "TICKER_91",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 91,
+        "ticker": "TICKER_91",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 91,
+        "ticker": "TICKER_91",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 91,
+        "ticker": "TICKER_91",
+        "year": 2019,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 91,
+        "ticker": "TICKER_91",
+        "year": 2020,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 91,
+        "ticker": "TICKER_91",
+        "year": 2021,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 91,
+        "ticker": "TICKER_91",
+        "year": 2022,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 91,
+        "ticker": "TICKER_91",
+        "year": 2023,
+        "metric": "ROCE",
+        "issue_type": "BFSI_SECTOR_CARVE_OUT",
+        "action": "Set ROCE to NULL. Substituted analysis focus to ROA/ROE.",
+        "value": null
+    },
+    {
+        "company_id": 92,
+        "ticker": "TICKER_92",
+        "year": 2010,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 92,
+        "ticker": "TICKER_92",
+        "year": 2011,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 92,
+        "ticker": "TICKER_92",
+        "year": 2012,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 92,
+        "ticker": "TICKER_92",
+        "year": 2013,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 92,
+        "ticker": "TICKER_92",
+        "year": 2014,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 92,
+        "ticker": "TICKER_92",
+        "year": 2015,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 92,
+        "ticker": "TICKER_92",
+        "year": 2016,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 92,
+        "ticker": "TICKER_92",
+        "year": 2017,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    },
+    {
+        "company_id": 92,
+        "ticker": "TICKER_92",
+        "year": 2018,
+        "metric": "ROCE",
+        "issue_type": "NEGATIVE_OR_ZERO_CAPITAL_EMPLOYED",
+        "action": "Set ROCE to NULL due to invalid denominator base.",
+        "value": 0.0
+    }
+]

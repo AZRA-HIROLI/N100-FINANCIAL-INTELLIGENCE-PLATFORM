@@ -1,0 +1,93 @@
+company_id,sector,cfo_quality_score,cfo_quality_label,capex_intensity_pct,capex_label,fcf_cagr_5yr,fcf_conversion_pct,distress_flag,deleveraging_flag,capital_allocation_label
+1,Banking,0.84,Moderate,6.02,Moderate,0.0,84.34,False,True,Deleveraging
+2,Pharma,0.76,Moderate,7.58,Moderate,0.0,76.39,False,False,Balanced Capital Allocator
+3,Auto,0.9,Moderate,4.42,Moderate,35.31,89.98,False,True,Deleveraging
+4,FMCG,0.72,Moderate,1.85,Asset Light,59.1,71.55,False,False,Balanced Capital Allocator
+5,Metals,0.92,Moderate,11.69,Capital Intensive,0.0,92.47,False,False,Heavy Reinvestor
+6,Energy,0.93,Moderate,7.5,Moderate,17.13,92.83,False,True,Deleveraging
+7,Telecom,0.53,Moderate,3.66,Moderate,0.0,53.25,True,False,Distress Signal
+8,Capital Goods,0.59,Moderate,10.34,Capital Intensive,0.0,58.8,False,False,Heavy Reinvestor
+9,Consumer Durables,0.77,Moderate,10.38,Capital Intensive,0.0,77.0,False,True,Deleveraging
+10,Chemicals,1.03,High Quality,6.62,Moderate,-28.04,102.82,False,False,Balanced Capital Allocator
+11,IT,0.68,Moderate,8.99,Capital Intensive,0.0,67.55,False,True,Deleveraging
+12,Banking,1.03,High Quality,1.51,Asset Light,-9.96,103.18,False,True,Deleveraging
+13,Pharma,0.86,Moderate,7.33,Moderate,-6.43,85.93,False,False,Balanced Capital Allocator
+14,Auto,0.86,Moderate,9.88,Capital Intensive,0.0,85.67,False,False,Heavy Reinvestor
+15,FMCG,0.86,Moderate,9.28,Capital Intensive,0.0,85.84,False,True,Deleveraging
+16,Metals,0.74,Moderate,9.94,Capital Intensive,0.0,74.16,False,True,Deleveraging
+17,Energy,1.01,High Quality,6.8,Moderate,-7.34,101.17,False,False,Balanced Capital Allocator
+18,Telecom,0.57,Moderate,11.85,Capital Intensive,0.0,57.27,True,False,Distress Signal
+19,Capital Goods,0.98,Moderate,10.22,Capital Intensive,0.0,97.51,False,False,Heavy Reinvestor
+20,Consumer Durables,1.02,High Quality,10.64,Capital Intensive,0.0,101.57,False,False,Heavy Reinvestor
+21,Chemicals,1.04,High Quality,7.97,Moderate,3.75,103.57,False,True,Deleveraging
+22,IT,0.71,Moderate,8.59,Capital Intensive,75.55,70.94,False,False,Heavy Reinvestor
+23,Banking,0.77,Moderate,5.15,Moderate,0.0,77.36,False,True,Deleveraging
+24,Pharma,0.8,Moderate,4.14,Moderate,0.0,79.82,False,True,Deleveraging
+25,Auto,0.97,Moderate,2.26,Asset Light,-0.53,96.88,False,False,Balanced Capital Allocator
+26,FMCG,0.92,Moderate,7.32,Moderate,-7.87,91.76,False,False,Balanced Capital Allocator
+27,Metals,0.85,Moderate,2.53,Asset Light,-29.06,84.93,False,True,Deleveraging
+28,Energy,1.07,High Quality,8.05,Capital Intensive,0.0,107.45,False,False,Heavy Reinvestor
+29,Telecom,1.2,High Quality,2.25,Asset Light,0.0,119.77,False,True,Deleveraging
+30,Capital Goods,0.96,Moderate,7.95,Moderate,-27.58,96.06,False,True,Deleveraging
+31,Consumer Durables,0.83,Moderate,5.41,Moderate,21.18,82.6,False,False,Balanced Capital Allocator
+32,Chemicals,0.77,Moderate,8.35,Capital Intensive,0.0,76.53,False,False,Heavy Reinvestor
+33,IT,0.89,Moderate,5.68,Moderate,-26.79,88.88,False,True,Deleveraging
+34,Banking,0.78,Moderate,7.57,Moderate,-33.53,77.99,False,True,Deleveraging
+35,Pharma,0.56,Moderate,1.34,Asset Light,0.0,56.4,True,False,Distress Signal
+36,Auto,0.94,Moderate,9.87,Capital Intensive,-60.4,94.35,False,True,Deleveraging
+37,FMCG,0.92,Moderate,10.12,Capital Intensive,0.0,92.46,False,False,Heavy Reinvestor
+38,Metals,0.75,Moderate,7.9,Moderate,-19.25,75.29,False,False,Balanced Capital Allocator
+39,Energy,0.93,Moderate,3.55,Moderate,0.0,93.2,False,False,Balanced Capital Allocator
+40,Telecom,1.17,High Quality,7.52,Moderate,0.0,116.67,False,True,Deleveraging
+41,Capital Goods,0.84,Moderate,3.94,Moderate,0.0,84.08,False,False,Balanced Capital Allocator
+42,Consumer Durables,0.84,Moderate,7.97,Moderate,0.0,83.88,False,True,Deleveraging
+43,Chemicals,0.94,Moderate,2.43,Asset Light,-43.76,94.04,False,False,Balanced Capital Allocator
+44,IT,0.78,Moderate,5.5,Moderate,0.0,78.23,False,False,Balanced Capital Allocator
+45,Banking,0.87,Moderate,7.4,Moderate,-2.5,86.55,False,False,Balanced Capital Allocator
+46,Pharma,0.97,Moderate,4.59,Moderate,0.0,97.1,False,False,Balanced Capital Allocator
+47,Auto,0.85,Moderate,5.98,Moderate,74.39,85.4,False,False,Balanced Capital Allocator
+48,FMCG,1.09,High Quality,9.17,Capital Intensive,0.0,109.48,False,True,Deleveraging
+49,Metals,1.01,High Quality,3.61,Moderate,-16.98,101.3,False,False,Balanced Capital Allocator
+50,Energy,0.93,Moderate,8.77,Capital Intensive,0.0,93.06,False,True,Deleveraging
+51,Telecom,0.9,Moderate,10.55,Capital Intensive,0.0,89.68,False,False,Heavy Reinvestor
+52,Capital Goods,0.68,Moderate,8.52,Capital Intensive,0.0,68.47,True,False,Distress Signal
+53,Consumer Durables,1.02,High Quality,5.79,Moderate,0.0,101.71,False,False,Balanced Capital Allocator
+54,Chemicals,1.0,Moderate,9.41,Capital Intensive,33.51,99.89,False,True,Deleveraging
+55,IT,0.79,Moderate,5.55,Moderate,0.0,78.67,False,False,Balanced Capital Allocator
+56,Banking,1.1,High Quality,10.05,Capital Intensive,0.0,109.69,False,False,Heavy Reinvestor
+57,Pharma,0.94,Moderate,8.97,Capital Intensive,0.0,94.04,False,False,Heavy Reinvestor
+58,Auto,0.83,Moderate,9.04,Capital Intensive,0.0,83.22,False,True,Deleveraging
+59,FMCG,0.94,Moderate,8.8,Capital Intensive,0.0,94.12,False,True,Deleveraging
+60,Metals,0.98,Moderate,8.64,Capital Intensive,17.04,98.49,False,False,Heavy Reinvestor
+61,Energy,0.72,Moderate,5.83,Moderate,47.9,71.8,False,False,Balanced Capital Allocator
+62,Telecom,0.67,Moderate,2.44,Asset Light,-9.85,67.2,False,False,Balanced Capital Allocator
+63,Capital Goods,0.8,Moderate,2.65,Asset Light,27.87,79.59,False,True,Deleveraging
+64,Consumer Durables,0.91,Moderate,6.7,Moderate,228.18,90.73,False,True,Deleveraging
+65,Chemicals,0.78,Moderate,5.2,Moderate,-36.74,77.87,False,True,Deleveraging
+66,IT,0.86,Moderate,8.1,Capital Intensive,-25.09,85.51,False,False,Heavy Reinvestor
+67,Banking,1.03,High Quality,9.06,Capital Intensive,47.21,102.79,False,False,Heavy Reinvestor
+68,Pharma,0.81,Moderate,9.2,Capital Intensive,0.0,81.2,False,False,Heavy Reinvestor
+69,Auto,0.89,Moderate,8.44,Capital Intensive,-23.86,89.36,False,True,Deleveraging
+70,FMCG,0.77,Moderate,9.64,Capital Intensive,0.0,77.34,False,False,Heavy Reinvestor
+71,Metals,1.07,High Quality,9.02,Capital Intensive,69.42,106.89,False,False,Heavy Reinvestor
+72,Energy,0.91,Moderate,8.3,Capital Intensive,-2.91,90.78,False,True,Deleveraging
+73,Telecom,0.96,Moderate,10.46,Capital Intensive,0.0,96.16,False,True,Deleveraging
+74,Capital Goods,0.78,Moderate,10.68,Capital Intensive,0.0,77.85,False,True,Deleveraging
+75,Consumer Durables,0.95,Moderate,9.73,Capital Intensive,0.0,95.09,False,True,Deleveraging
+76,Chemicals,0.83,Moderate,5.7,Moderate,0.0,83.47,False,False,Balanced Capital Allocator
+77,IT,0.99,Moderate,9.24,Capital Intensive,0.0,99.22,False,True,Deleveraging
+78,Banking,0.99,Moderate,8.31,Capital Intensive,0.0,99.32,False,True,Deleveraging
+79,Pharma,0.86,Moderate,8.99,Capital Intensive,-4.96,85.84,False,False,Heavy Reinvestor
+80,Auto,1.04,High Quality,10.41,Capital Intensive,0.0,104.29,False,True,Deleveraging
+81,FMCG,1.06,High Quality,11.46,Capital Intensive,0.0,106.38,False,True,Deleveraging
+82,Metals,0.85,Moderate,4.73,Moderate,-20.76,85.16,False,False,Balanced Capital Allocator
+83,Energy,0.73,Moderate,1.56,Asset Light,0.0,72.67,False,False,Balanced Capital Allocator
+84,Telecom,0.86,Moderate,2.56,Asset Light,-21.09,86.26,False,False,Balanced Capital Allocator
+85,Capital Goods,1.06,High Quality,4.51,Moderate,98.0,105.87,False,False,Balanced Capital Allocator
+86,Consumer Durables,0.76,Moderate,6.56,Moderate,0.0,76.21,False,False,Balanced Capital Allocator
+87,Chemicals,1.13,High Quality,5.84,Moderate,8.08,113.26,False,True,Deleveraging
+88,IT,0.82,Moderate,6.97,Moderate,34.27,82.0,False,True,Deleveraging
+89,Banking,1.06,High Quality,5.48,Moderate,0.0,105.84,False,True,Deleveraging
+90,Pharma,0.97,Moderate,11.98,Capital Intensive,0.0,96.66,False,False,Heavy Reinvestor
+91,Auto,0.99,Moderate,1.8,Asset Light,-18.43,99.46,False,False,Balanced Capital Allocator
+92,FMCG,0.87,Moderate,7.44,Moderate,24.24,86.7,False,False,Balanced Capital Allocator
