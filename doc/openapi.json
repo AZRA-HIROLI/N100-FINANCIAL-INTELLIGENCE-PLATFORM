@@ -1,0 +1,178 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Financial Intelligence API",
+    "description": "REST API for 92-Company Financial Analytics, Screener, and PDF Reports",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/api/v1/health": {
+      "get": {
+        "tags": [
+          "Health"
+        ],
+        "summary": "System Health Check",
+        "operationId": "health_check_api_v1_health_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/companies/ping": {
+      "get": {
+        "tags": [
+          "Companies"
+        ],
+        "summary": "Ping Companies",
+        "operationId": "ping_companies_api_v1_companies_ping_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/screener/ping": {
+      "get": {
+        "tags": [
+          "Screener"
+        ],
+        "summary": "Ping Screener",
+        "operationId": "ping_screener_api_v1_screener_ping_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/sectors/ping": {
+      "get": {
+        "tags": [
+          "Sectors"
+        ],
+        "summary": "Ping Sectors",
+        "operationId": "ping_sectors_api_v1_sectors_ping_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/peers/ping": {
+      "get": {
+        "tags": [
+          "Peers"
+        ],
+        "summary": "Ping Peers",
+        "operationId": "ping_peers_api_v1_peers_ping_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/valuation/ping": {
+      "get": {
+        "tags": [
+          "Valuation"
+        ],
+        "summary": "Ping Valuation",
+        "operationId": "ping_valuation_api_v1_valuation_ping_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/portfolio/ping": {
+      "get": {
+        "tags": [
+          "Portfolio"
+        ],
+        "summary": "Ping Portfolio",
+        "operationId": "ping_portfolio_api_v1_portfolio_ping_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/documents/ping": {
+      "get": {
+        "tags": [
+          "Documents"
+        ],
+        "summary": "Ping Documents",
+        "operationId": "ping_documents_api_v1_documents_ping_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/": {
+      "get": {
+        "summary": "Root",
+        "operationId": "root__get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
